@@ -10,6 +10,7 @@ Model scenarios are also supported.
 For more details about configuring form elements, please refer to {@link CFormInputElement}.
 
 Model example:
+
 ~~~
 [php]
 class User extends CActiveRecord
@@ -27,6 +28,7 @@ class User extends CActiveRecord
 ~~~
 
 Now you can easy generate from, example two action from UsersController:
+
 ~~~
 [php]
 public function actionInsert()
